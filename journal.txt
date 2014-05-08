@@ -1,0 +1,5 @@
+Title: A paper on ocean tidal waves
+Author: Rumyantseva
+Introduction: Details of tidal waves
+Conclucions: sample data
+References: Wiley jurnal paper 
