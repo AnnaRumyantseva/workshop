@@ -3,3 +3,5 @@ Author: Rumyantseva
 Introduction: Details of tidal waves
 Conclucions: sample data
 References: Wiley jurnal paper 
+
+Making changes to original paper
